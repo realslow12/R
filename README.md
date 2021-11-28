@@ -12,4 +12,4 @@
 증가시켜 사용자가 스테이지를 격파하는데 재미를 느낄 수 있도록 설계하였음
 
 
-[링크](https://youtu.be/fP7TRnW4tp0) 
+[게임 시연 영상](https://youtu.be/fP7TRnW4tp0) 
